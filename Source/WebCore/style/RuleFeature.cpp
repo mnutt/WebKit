@@ -34,6 +34,7 @@
 #include "HTMLNames.h"
 #include "RuleSet.h"
 #include "StyleProperties.h"
+#include "StylePropertiesInlines.h"
 #include "StyleRule.h"
 
 namespace WebCore {

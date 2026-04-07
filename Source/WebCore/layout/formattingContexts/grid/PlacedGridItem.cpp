@@ -28,6 +28,7 @@
 
 #include "GridAreaLines.h"
 #include "LayoutBoxGeometry.h"
+#include "RenderStyle+GettersInlines.h"
 #include "StyleAlignSelf.h"
 #include "StyleJustifySelf.h"
 #include "UnplacedGridItem.h"

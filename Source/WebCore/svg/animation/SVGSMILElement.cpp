@@ -55,6 +55,7 @@
 #include <wtf/TZoneMallocInlines.h>
 #include <wtf/Vector.h>
 #include <wtf/text/StringToIntegerConversion.h>
+#include "DocumentPage.h"
 
 namespace WebCore {
 

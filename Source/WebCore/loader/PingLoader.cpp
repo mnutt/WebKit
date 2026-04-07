@@ -59,6 +59,7 @@
 #include "UserContentController.h"
 #include "ViolationReportType.h"
 #include <wtf/text/CString.h>
+#include "LocalFrameInlines.h"
 
 namespace WebCore {
 

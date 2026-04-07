@@ -28,8 +28,10 @@
 
 #include "ContainerNodeInlines.h"
 #include "LocalFrame.h"
+#include "DocumentView.h"
 #include "LocalFrameInlines.h"
 #include "LocalFrameView.h"
+#include "RenderBoxModelObjectInlines.h"
 #include "RenderObjectInlines.h"
 #include "RenderScrollbarPart.h"
 #include "RenderScrollbarTheme.h"

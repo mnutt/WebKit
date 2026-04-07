@@ -90,6 +90,7 @@
 #include <wtf/RobinHoodHashSet.h>
 #include <wtf/StdLibExtras.h>
 #include <wtf/TZoneMallocInlines.h>
+#include "DocumentPage.h"
 
 namespace WebCore {
 

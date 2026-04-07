@@ -66,6 +66,7 @@
 #include "ProgressBarPart.h"
 #include "RenderMeter.h"
 #include "RenderElementInlines.h"
+#include "RenderObjectInlines.h"
 #include "RenderProgress.h"
 #include "RenderStyle+GettersInlines.h"
 #include "RenderText.h"

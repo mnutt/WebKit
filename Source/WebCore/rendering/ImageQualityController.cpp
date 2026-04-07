@@ -29,6 +29,7 @@
 #include "FrameDestructionObserverInlines.h"
 #include "GraphicsContext.h"
 #include "LocalFrame.h"
+#include "DocumentView.h"
 #include "LocalFrameInlines.h"
 #include "Page.h"
 #include "RenderBoxModelObject.h"

@@ -24,6 +24,7 @@
  */
 
 #include "config.h"
+#include "ContainerNodeInlines.h"
 #include "SelectFallbackButtonElement.h"
 
 #include "CSSPrimitiveValueMappings.h"

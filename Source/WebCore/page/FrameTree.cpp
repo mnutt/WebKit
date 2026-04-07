@@ -33,6 +33,7 @@
 #include <wtf/Vector.h>
 #include <wtf/text/CString.h>
 #include <wtf/text/StringBuilder.h>
+#include "DocumentPage.h"
 
 namespace WebCore {
 

@@ -34,6 +34,7 @@
 #include "Chrome.h"
 #include "ChromeClient.h"
 #include "Document.h"
+#include "DocumentView.h"
 #include "ElementChildIteratorInlines.h"
 #include "Frame.h"
 #include "FrameSnapshotting.h"
@@ -74,6 +75,7 @@
 #include <wtf/Stopwatch.h>
 #include <wtf/TZoneMallocInlines.h>
 #include <wtf/text/WTFString.h>
+#include "DocumentPage.h"
 
 #if ENABLE(OFFSCREEN_CANVAS)
 #include "JSOffscreenCanvas.h"

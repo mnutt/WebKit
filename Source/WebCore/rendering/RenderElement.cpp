@@ -58,6 +58,7 @@
 #include "PathUtilities.h"
 #include "ReferencedSVGResources.h"
 #include "RenderBlock.h"
+#include "RenderBlockFlowInlines.h"
 #include "RenderBoxModelObjectInlines.h"
 #include "RenderChildIterator.h"
 #include "RenderCounter.h"

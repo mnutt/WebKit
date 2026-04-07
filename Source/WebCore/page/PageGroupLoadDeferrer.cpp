@@ -29,6 +29,7 @@
 #include "Page.h"
 #include "PageGroup.h"
 #include "ScriptRunner.h"
+#include "DocumentPage.h"
 
 namespace WebCore {
 

@@ -28,6 +28,7 @@
  */
 
 #include "config.h"
+#include "DocumentPage.h"
 #include "DocumentLoader.h"
 
 #include "Archive.h"
@@ -113,6 +114,7 @@
 #include <wtf/text/CString.h>
 #include <wtf/text/MakeString.h>
 #include <wtf/text/WTFString.h>
+#include "FrameDestructionObserverInlines.h"
 
 #if ENABLE(APPLICATION_MANIFEST)
 #include "ApplicationManifestLoader.h"

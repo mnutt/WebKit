@@ -67,6 +67,7 @@
 #include <wtf/Assertions.h>
 #include <wtf/Ref.h>
 #include <wtf/text/MakeString.h>
+#include "DocumentPage.h"
 
 namespace WebCore {
 

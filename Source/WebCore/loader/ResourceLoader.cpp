@@ -61,7 +61,9 @@
 #include "SubresourceLoader.h"
 #include <wtf/CompletionHandler.h>
 #include <wtf/Ref.h>
+#include "DocumentPage.h"
 #include <wtf/text/MakeString.h>
+#include "LocalFrameInlines.h"
 
 #if ENABLE(CONTENT_EXTENSIONS)
 #include "UserContentController.h"

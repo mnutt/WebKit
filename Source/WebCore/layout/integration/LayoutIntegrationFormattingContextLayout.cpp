@@ -32,6 +32,7 @@
 #include "LayoutIntegrationBoxGeometryUpdater.h"
 #include "LayoutIntegrationUtils.h"
 #include "RenderBlock.h"
+#include "RenderBlockFlowInlines.h"
 #include "RenderBoxInlines.h"
 #include "RenderFlexibleBox.h"
 #include "RenderLayoutState.h"

@@ -35,6 +35,7 @@
 #include "RenderObjectInlines.h"
 #include "RenderSVGPath.h"
 #include "RenderStyle.h"
+#include "DocumentView.h"
 #include "SVGClipPathElement.h"
 #include "SVGElementTypeHelpers.h"
 #include "SVGFilterElement.h"

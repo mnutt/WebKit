@@ -48,6 +48,7 @@
 #include "WindowProxy.h"
 #include <wtf/Assertions.h>
 #include <wtf/NeverDestroyed.h>
+#include "DocumentPage.h"
 
 namespace WebCore {
 

@@ -28,6 +28,7 @@
 #include "HTMLElementStack.h"
 
 #include "Document.h"
+#include "NodeDocument.h"
 #include "DocumentFragment.h"
 #include "HTMLOptGroupElement.h"
 #include "HTMLOptionElement.h"

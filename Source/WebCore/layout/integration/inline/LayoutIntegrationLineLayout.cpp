@@ -50,6 +50,7 @@
 #include "PaintInfo.h"
 #include "PlacedFloats.h"
 #include "RenderBlockFlow.h"
+#include "RenderBlockFlowInlines.h"
 #include "RenderBoxInlines.h"
 #include "RenderBoxModelObjectInlines.h"
 #include "RenderDescendantIterator.h"

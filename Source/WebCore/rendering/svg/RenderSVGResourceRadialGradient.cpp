@@ -25,6 +25,7 @@
 #include "RenderSVGModelObjectInlines.h"
 #include "RenderSVGResourceRadialGradientInlines.h"
 #include "RenderSVGShape.h"
+#include "RenderObjectNode.h"
 #include "SVGElementTypeHelpers.h"
 #include <wtf/TZoneMallocInlines.h>
 

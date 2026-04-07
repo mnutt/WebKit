@@ -27,6 +27,7 @@
 #include "SVGLength.h"
 
 #include "Document.h"
+#include "NodeDocument.h"
 #include "SVGElement.h"
 
 namespace WebCore {

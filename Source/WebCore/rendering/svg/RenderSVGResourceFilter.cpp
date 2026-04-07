@@ -25,6 +25,7 @@
 
 #include "config.h"
 #include "RenderSVGResourceFilter.h"
+#include "RenderObjectNode.h"
 
 #include "RenderSVGResourceFilterInlines.h"
 #include "SVGFilterElement.h"

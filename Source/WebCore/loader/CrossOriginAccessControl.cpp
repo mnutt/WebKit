@@ -25,6 +25,7 @@
  */
 
 #include "config.h"
+#include "DocumentPage.h"
 #include "CrossOriginAccessControl.h"
 
 #include "CachedResourceRequest.h"

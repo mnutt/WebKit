@@ -49,6 +49,7 @@
 #include "StylePreferredSize.h"
 #include "LocalizedStrings.h"
 #include "Page.h"
+#include "RenderObjectInlines.h"
 #include "TextControlInnerElements.h"
 #include "UserAgentParts.h"
 #include <wtf/TZoneMallocInlines.h>

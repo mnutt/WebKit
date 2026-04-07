@@ -21,6 +21,8 @@
 #include "SVGTextMetrics.h"
 
 #include "RenderSVGInlineText.h"
+#include "RenderStyle+GettersInlines.h"
+#include "FontCascadeInlines.h"
 #include "TextRun.h"
 #include "UnicodeBidi.h"
 

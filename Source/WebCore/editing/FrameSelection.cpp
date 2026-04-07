@@ -65,6 +65,7 @@
 #include "LegacyInlineTextBox.h"
 #include "LocalDOMWindow.h"
 #include "LocalFrame.h"
+#include "LocalFrameInlines.h"
 #include "LocalFrameView.h"
 #include "Logging.h"
 #include "MutableStyleProperties.h"

@@ -28,6 +28,7 @@
 #include "Document.h"
 #include "ElementAncestorIteratorInlines.h"
 #include "ElementChildIterator.h"
+#include "ElementChildIteratorInlines.h"
 #include "ElementIterator.h"
 #include "HTMLDivElement.h"
 #include "HTMLLegendElement.h"

@@ -47,6 +47,7 @@
 #include <ranges>
 #include <wtf/CheckedArithmetic.h>
 #include <wtf/TZoneMallocInlines.h>
+#include "FrameDestructionObserverInlines.h"
 
 #if ENABLE(POINTER_LOCK)
 #include "PointerLockController.h"
