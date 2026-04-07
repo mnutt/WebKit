@@ -5920,6 +5920,9 @@ END
                         AddToImplIncludes("MathMLElementTypeHelpers.h");
                     }
                 }
+                if ($childInterface->type->name eq "SVGComponentTransferFunctionElement") {
+                    AddToImplIncludes("SVGComponentTransferFunctionElementInlines.h");
+                }
                 push(@implContent, "    if (is<${childImplType}>(impl))\n");
                 push(@implContent, "        return toJSNewlyCreated(lexicalGlobalObject, globalObject, uncheckedDowncast<${childImplType}>(WTF::move(impl)));\n");
                 push(@implContent, "#endif\n") if $conditional;
