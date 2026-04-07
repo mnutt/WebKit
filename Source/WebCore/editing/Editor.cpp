@@ -359,6 +359,8 @@ EditingBehavior Editor::behavior() const
     return document().editingBehavior();
 }
 
+Document& Editor::document() const { return m_document; }
+
 EditorClient* Editor::client() const
 {
     ASSERT(!m_client || !document().page() || m_client == &document().page()->editorClient());
