@@ -32,6 +32,8 @@
 #include "ImageBitmap.h"
 #include "ImageBitmapOptions.h"
 #include "ImageBuffer.h"
+#include "JSDOMConvertDictionary.h"
+#include "JSDOMConvertSequences.h"
 #include "JSDOMPromiseDeferred.h"
 #include "JSDetectedText.h"
 #include "Page.h"

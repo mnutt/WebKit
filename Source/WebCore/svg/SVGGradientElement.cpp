@@ -30,6 +30,7 @@
 #include "LegacyRenderSVGResourceRadialGradient.h"
 #include "NodeName.h"
 #include "RenderSVGResourceGradient.h"
+#include "Settings.h"
 #include "SVGElementTypeHelpers.h"
 #include "SVGStopElement.h"
 #include "StyleResolver.h"

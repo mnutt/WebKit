@@ -32,6 +32,7 @@
 #include "FetchRequest.h"
 #include "JSBackgroundFetchRegistration.h"
 #include "JSDOMConvertInterface.h"
+#include "JSDOMPromiseDeferred.h"
 #include "JSDOMConvertNullable.h"
 #include "JSDOMConvertSequences.h"
 #include "JSDOMConvertStrings.h"

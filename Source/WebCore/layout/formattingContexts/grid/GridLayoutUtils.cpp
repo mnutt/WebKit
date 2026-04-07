@@ -26,6 +26,14 @@
 #include "config.h"
 #include "GridLayoutUtils.h"
 
+#include "GridFormattingContext.h"
+#include "LayoutIntegrationUtils.h"
+#include "PlacedGridItem.h"
+#include "TrackSizingAlgorithm.h"
+#include "TrackSizingFunctions.h"
+#include <style/values/primitives/StylePrimitiveNumericTypes+Evaluation.h>
+#include <wtf/Range.h>
+
 namespace WebCore {
 namespace Layout {
 namespace GridLayoutUtils {

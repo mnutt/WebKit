@@ -53,6 +53,7 @@
 #include "JSShadowRealmGlobalScopeBase.h"
 #include "JSTrustedScript.h"
 #include "JSWorkerGlobalScope.h"
+#include "TrustedType.h"
 #include "JSWorkletGlobalScope.h"
 #include "JSWritableStream.h"
 #include "LocalDOMWindow.h"

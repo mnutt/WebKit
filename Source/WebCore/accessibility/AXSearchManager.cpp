@@ -27,6 +27,7 @@
 
 #include "AccessibilityObjectInlines.h"
 #include "AXLogger.h"
+#include "LocalFrameView.h"
 #include "AXLoggerBase.h"
 #include "AXObjectCacheInlines.h"
 #include "AXTreeStoreInlines.h"

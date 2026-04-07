@@ -40,6 +40,7 @@
 #include "ScriptExecutionContext.h"
 #include "WorkerGlobalScope.h"
 #include "WorkerRunLoop.h"
+#include "WorkerOrWorkletThread.h"
 #include "WorkerThreadableLoader.h"
 #include "WorkletGlobalScope.h"
 #include <wtf/text/MakeString.h>

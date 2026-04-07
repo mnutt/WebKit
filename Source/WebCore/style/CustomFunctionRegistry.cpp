@@ -25,6 +25,9 @@
 #include "config.h"
 #include "CustomFunctionRegistry.h"
 
+#include "ImmutableStyleProperties.h"
+#include "MutableStyleProperties.h"
+
 namespace WebCore {
 namespace Style {
 

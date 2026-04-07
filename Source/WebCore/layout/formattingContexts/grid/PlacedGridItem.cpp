@@ -27,6 +27,9 @@
 #include "PlacedGridItem.h"
 
 #include "GridAreaLines.h"
+#include "LayoutBoxGeometry.h"
+#include "StyleAlignSelf.h"
+#include "StyleJustifySelf.h"
 #include "UnplacedGridItem.h"
 
 namespace WebCore {

@@ -25,6 +25,8 @@
 
 #include "CSSPropertyNames.h"
 #include "CSSValueKeywords.h"
+#include "HTMLSelectElement.h"
+#include "Settings.h"
 #include "CSSValuePool.h"
 #include "ElementInlines.h"
 #include "HTMLNames.h"

@@ -59,6 +59,7 @@
 #include "JSImageData.h"
 #include "JSNode.h"
 #include "LocalFrame.h"
+#include "LocalFrameView.h"
 #include "Node.h"
 #include "PageInspectorController.h"
 #include "ScriptableDocumentParser.h"

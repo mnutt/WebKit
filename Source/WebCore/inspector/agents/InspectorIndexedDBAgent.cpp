@@ -54,6 +54,7 @@
 #include "IDBTransaction.h"
 #include "InspectorResourceUtilities.h"
 #include "InstrumentingAgents.h"
+#include "Settings.h"
 #include "JSDOMWindowCustom.h"
 #include "LocalDOMWindow.h"
 #include "LocalFrame.h"

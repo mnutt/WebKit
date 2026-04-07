@@ -62,6 +62,7 @@
 #include "FragmentDirectiveUtilities.h"
 #include "FrameInlines.h"
 #include "FrameLoader.h"
+#include "GraphicsLayer.h"
 #include "FrameSelection.h"
 #include "FrameTree.h"
 #include "GraphicsContext.h"

@@ -34,6 +34,8 @@
 #include "DocumentLoader.h"
 #include "Frame.h"
 #include "FrameLoader.h"
+#include "LocalFrame.h"
+#include "OriginAccessPatterns.h"
 #include "MemoryCache.h"
 #include "ReferrerPolicy.h"
 #include "ResourceRequest.h"

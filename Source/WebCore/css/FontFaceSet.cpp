@@ -36,8 +36,11 @@
 #include "FrameDestructionObserverInlines.h"
 #include "FrameLoader.h"
 #include "JSDOMBinding.h"
+#include "JSDOMConvertInterface.h"
+#include "JSDOMConvertSequences.h"
 #include "JSDOMPromiseDeferred.h"
 #include "JSFontFace.h"
+#include "JSFontFaceSet.h"
 #include "JSFontFaceSet.h"
 #include "ScriptExecutionContext.h"
 #include <wtf/TZoneMallocInlines.h>

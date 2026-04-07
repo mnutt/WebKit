@@ -34,10 +34,13 @@
 #include "RenderCombineText.h"
 #include "RenderLayer.h"
 #include "RenderStyle.h"
+#include "Settings.h"
 #include "StyleAppleColorFilter.h"
+#include "StyleColorResolver.h"
 #include "StyleTextShadow.h"
 #include "TextBoxPainter.h"
 #include <wtf/NeverDestroyed.h>
+#include <wtf/unicode/CharacterNames.h>
 
 namespace WebCore {
 

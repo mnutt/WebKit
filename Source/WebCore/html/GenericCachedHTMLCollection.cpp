@@ -28,6 +28,7 @@
 
 #include "CachedHTMLCollectionInlines.h"
 #include "HTMLNames.h"
+#include "Settings.h"
 #include "HTMLOptionElement.h"
 
 namespace WebCore {

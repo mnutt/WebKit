@@ -49,6 +49,7 @@
 
 #include "AccessibilityRegionContext.h"
 #include "BitmapImage.h"
+#include "SVGFilterElement.h"
 #include "BorderShape.h"
 #include "BoxLayoutShape.h"
 #include "ContainerNodeInlines.h"

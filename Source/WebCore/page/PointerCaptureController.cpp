@@ -41,6 +41,7 @@
 #include "Page.h"
 #include "PointerEvent.h"
 #include "Quirks.h"
+#include "TaskSource.h"
 #include "Settings.h"
 #include <algorithm>
 #include <ranges>

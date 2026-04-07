@@ -29,6 +29,7 @@
 #include "GridLayoutUtils.h"
 #include "LayoutIntegrationUtils.h"
 #include "NotImplemented.h"
+#include "StyleContentAlignmentData.h"
 #include "PlacedGridItem.h"
 #include "TrackSizingFunctions.h"
 #include <wtf/Range.h>

@@ -27,6 +27,7 @@
 
 #include "CSSCounterStyleDescriptors.h"
 #include "CSSCounterStyleRegistry.h"
+#include "CSSFontSelector.h"
 #include "Document.h"
 #include "FontCascade.h"
 #include "FontCascadeDescription.h"

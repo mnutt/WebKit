@@ -40,10 +40,13 @@
 #include "JSOrigin.h"
 #include "JSWorkerGlobalScope.h"
 #include "LocalDOMWindow.h"
+#include "HTMLNames.h"
 #include "SecurityOrigin.h"
 #include <wtf/URL.h>
 
 namespace WebCore {
+
+using namespace HTMLNames;
 
 Origin::Origin(Ref<SecurityOrigin>&& securityOrigin)
     : m_origin(WTF::move(securityOrigin))

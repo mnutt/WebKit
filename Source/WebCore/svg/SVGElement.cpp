@@ -43,6 +43,7 @@
 #include "LegacyRenderSVGResourceContainer.h"
 #include "NodeInlines.h"
 #include "NodeName.h"
+#include "Page.h"
 #include "RenderAncestorIterator.h"
 #include "RenderSVGResourceContainer.h"
 #include "RenderStyle+GettersInlines.h"

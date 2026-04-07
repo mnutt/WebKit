@@ -30,6 +30,7 @@
 #include "HTMLSelectElement.h"
 #include "RenderStyle.h"
 #include "ShadowRoot.h"
+#include "StyleAppearance.h"
 #include <wtf/TZoneMallocInlines.h>
 
 namespace WebCore {

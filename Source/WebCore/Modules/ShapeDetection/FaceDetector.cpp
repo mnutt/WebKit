@@ -28,10 +28,13 @@
 
 #include "Chrome.h"
 #include "DetectedFace.h"
+#include "Document.h"
 #include "FaceDetectorOptions.h"
 #include "ImageBitmap.h"
 #include "ImageBitmapOptions.h"
 #include "ImageBuffer.h"
+#include "JSDOMConvertDictionary.h"
+#include "JSDOMConvertSequences.h"
 #include "JSDOMPromiseDeferred.h"
 #include "JSDetectedFace.h"
 #include "Page.h"

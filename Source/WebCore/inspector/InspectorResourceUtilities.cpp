@@ -37,7 +37,9 @@
 #include "LocalFrame.h"
 #include "MIMETypeRegistry.h"
 #include "MemoryCache.h"
+#include "Page.h"
 #include "SharedBuffer.h"
+#include <JavaScriptCore/ContentSearchUtilities.h>
 
 namespace Inspector {
 

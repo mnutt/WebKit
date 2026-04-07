@@ -33,6 +33,7 @@
 #include "CSSSelectorList.h"
 #include "HTMLNames.h"
 #include "RuleSet.h"
+#include "StyleProperties.h"
 #include "StyleRule.h"
 
 namespace WebCore {

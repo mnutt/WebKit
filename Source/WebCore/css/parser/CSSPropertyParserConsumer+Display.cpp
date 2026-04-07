@@ -32,6 +32,7 @@
 #include "CSSParserTokenRangeGuard.h"
 #include "CSSPrimitiveValue.h"
 #include "CSSPropertyParserConsumer+Ident.h"
+#include "CSSValuePair.h"
 #include "CSSPropertyParserState.h"
 #include "CSSValueKeywords.h"
 #include <wtf/EnumeratedArray.h>

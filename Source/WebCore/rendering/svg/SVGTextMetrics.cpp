@@ -21,6 +21,7 @@
 #include "SVGTextMetrics.h"
 
 #include "RenderSVGInlineText.h"
+#include "TextRun.h"
 #include "UnicodeBidi.h"
 
 namespace WebCore {
