@@ -52,6 +52,10 @@ if (NOT HAS_RUN_WEBKIT_COMMON)
     )
     set(PORT "NOPORT" CACHE STRING "choose which WebKit port to build (one of ${ALL_PORTS})")
 
+    if (DEFINED WEBKIT_EXTRA_PORTS)
+        list(APPEND ALL_PORTS ${WEBKIT_EXTRA_PORTS})
+    endif ()
+
     list(FIND ALL_PORTS ${PORT} RET)
     if (${RET} EQUAL -1)
         if (APPLE)
