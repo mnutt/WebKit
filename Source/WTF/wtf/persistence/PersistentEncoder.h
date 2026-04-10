@@ -72,6 +72,8 @@ public:
     WTF_EXPORT_PRIVATE Encoder& operator<<(float);
     WTF_EXPORT_PRIVATE Encoder& operator<<(double);
 
+    Encoder& operator<<(unsigned long value) requires (!std::is_same_v<unsigned long, uint64_t>) { return *this << static_cast<uint64_t>(value); }
+
     // FIXME: Port call sites to span() and remove.
     const uint8_t* buffer() const LIFETIME_BOUND { return m_buffer.span().data(); }
 

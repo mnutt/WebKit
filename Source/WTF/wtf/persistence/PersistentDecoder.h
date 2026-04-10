@@ -60,6 +60,15 @@ public:
     WTF_EXPORT_PRIVATE Decoder& operator>>(std::optional<float>&);
     WTF_EXPORT_PRIVATE Decoder& operator>>(std::optional<double>&);
 
+    Decoder& operator>>(std::optional<unsigned long>& result) requires (!std::is_same_v<unsigned long, uint64_t>) {
+        std::optional<uint64_t> value;
+        *this >> value;
+        if (!value)
+            return *this;
+        result = static_cast<unsigned long>(*value);
+        return *this;
+    }
+
     template<typename T>
         requires (!std::is_arithmetic_v<typename std::remove_const<T>> && !std::is_enum_v<T>)
     Decoder& operator>>(std::optional<T>& result)
