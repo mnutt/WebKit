@@ -1,0 +1,19 @@
+Source/WebCore/html/LazyLoadVideoObserver.h
+  s_17d1a6436924cf::t_04e86bfe74bb85 57-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "4ece6e9aff32d5841ef8527512fc45ec7f95a512",
+  "prompts": {},
+  "sessions": {
+    "s_17d1a6436924cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fa7b694f-c1db-4756-bd0e-794b337f1ce7",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Michael Nutt <michael@nuttnet.net>"
+    }
+  }
+}
