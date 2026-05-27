@@ -1,0 +1,23 @@
+Source/WebCore/crypto/keys/CryptoKeyEC.h
+  s_17d1a6436924cf::t_9861ae4a60dfff 32
+Source/WebCore/crypto/keys/CryptoKeyEC.cpp
+  s_17d1a6436924cf::t_4c56b1f90d256e 34
+Source/WebCore/crypto/keys/CryptoKeyRSA.h
+  s_17d1a6436924cf::t_5161f70b3724e0 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "81425f38496b1f523f867abaaba1419e0798812b",
+  "prompts": {},
+  "sessions": {
+    "s_17d1a6436924cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fa7b694f-c1db-4756-bd0e-794b337f1ce7",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Michael Nutt <michael@nuttnet.net>"
+    }
+  }
+}
