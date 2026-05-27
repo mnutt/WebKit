@@ -1,0 +1,19 @@
+Source/WebCore/page/Page.cpp
+  s_17d1a6436924cf::t_5c5f93322c83c5 4899
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "f600241c19df56bfc5a197c1c0828f4cc254a1d9",
+  "prompts": {},
+  "sessions": {
+    "s_17d1a6436924cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fa7b694f-c1db-4756-bd0e-794b337f1ce7",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Michael Nutt <michael@nuttnet.net>"
+    }
+  }
+}
