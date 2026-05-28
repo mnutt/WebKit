@@ -1,0 +1,20 @@
+Source/WebCore/accessibility/AXCoreObject.h
+  s_17d1a6436924cf::t_dfa4b6eb98e67a 1496-1497
+  s_17d1a6436924cf::t_a8788392dd808b 85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "c2cde214d0c849e9ee8c2d0881acd5f8d1720def",
+  "prompts": {},
+  "sessions": {
+    "s_17d1a6436924cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fa7b694f-c1db-4756-bd0e-794b337f1ce7",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Michael Nutt <michael@nuttnet.net>"
+    }
+  }
+}
