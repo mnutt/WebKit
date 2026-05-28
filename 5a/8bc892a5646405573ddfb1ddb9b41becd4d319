@@ -1,0 +1,23 @@
+Source/WebCore/platform/generic/KeyedDecoderGeneric.cpp
+  s_17d1a6436924cf::t_b1134592c2afab 113
+  s_17d1a6436924cf::t_c9d34c665a48bf 54
+Source/WebCore/platform/generic/KeyedEncoderGeneric.cpp
+  s_17d1a6436924cf::t_b5833312ecad40 43
+  s_17d1a6436924cf::t_1640babee9cd32 54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "5a8bc892a5646405573ddfb1ddb9b41becd4d319",
+  "prompts": {},
+  "sessions": {
+    "s_17d1a6436924cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fa7b694f-c1db-4756-bd0e-794b337f1ce7",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Michael Nutt <michael@nuttnet.net>"
+    }
+  }
+}
